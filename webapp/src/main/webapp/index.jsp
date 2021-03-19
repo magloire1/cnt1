@@ -2,7 +2,5 @@
 <h2> Data Service Group is your learning partner </h2>
 <h2> Glad to see you here </h2>
 <h1> Good job magloire on learning Devops</h1>
-<h1> i cannot wait for to start making big $$$$ doing this Devops </h1>
-<h1> With God with me, i fear nothing </h1>
 
 <h1> Test for cnt1 deployment !! <h1?>
